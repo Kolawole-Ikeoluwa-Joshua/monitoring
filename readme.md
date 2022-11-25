@@ -27,3 +27,6 @@ http://localhost:81 #Python
 ```
 http://localhost:3000
 ```
+# Prometheus Guide on Kubernetes
+
+Checkout the prometheus guide [here](./kubernetes/1.23/README.md)
